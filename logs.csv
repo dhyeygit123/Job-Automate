@@ -1,0 +1,54 @@
+name,email,company,role,status,timestamp
+Dhyey Patel,dhyey.p@ahduni.edu.in,Google,SWE,SUCCESS,2025-09-16T07:27:30.727Z
+Dhyey Patel,dhyey.p@ahduni.edu.in,Google,Hiring Manager,SUCCESS,2025-09-16T16:20:25.175Z
+Dhyey Patel,dhyey.p@ahduni.edu.in,Google,Software Engineer,SUCCESS,2025-09-16T16:22:28.591Z
+Dhyey Patel,dhyey.p@ahduni.edu.in,Google,Software Engineer,FAILED,2025-09-16T16:38:42.004Z
+Dhyey Patel,dhyey.p@ahduni.edu.in,Google,Software Engineer,SUCCESS,2025-09-16T16:39:18.865Z
+Carlos,carlos@infisical.com,Infisical,Software Engineer,SUCCESS,2025-09-16T16:40:28.964Z
+Stanislav,sbeliaev@getfluently.app,Fluently,Hiring Manager,SUCCESS,2025-09-16T16:40:34.818Z
+Dhruva,dhruva@amuselabs.com,Amuse Labs,Software Developer,SUCCESS,2025-09-16T16:40:40.339Z
+Aditya,aditya.periwal@toddleapp.com,Toddle,Senior Software Engineer,SUCCESS,2025-09-16T16:40:46.106Z
+Vasu,vbansal@microsoft.com,Microsoft,Software Engineer II,SUCCESS,2025-09-16T16:40:51.923Z
+Revanth,rmurigipudi@atlassian.com,Atlassian,Senior Software Engineer,SUCCESS,2025-09-16T16:40:57.621Z
+Jinesh,jinesh.p@iqm.com,IQM,Software Engineer,SUCCESS,2025-09-17T13:39:20.608Z
+Arjun,arjunlatiwala@fxis.ai,Fxis,Software Engineer,SUCCESS,2025-09-17T13:39:27.264Z
+Vedant,vedant@artisan.co,Artisan,Software Engineer,SUCCESS,2025-09-17T13:39:33.818Z
+Morgan,morgan@withdavid.ai,David AI,Hiring Manager,SUCCESS,2025-09-17T13:39:40.679Z
+Jack,jack@thundercompute.com,Thunder Compute,Hiring Manager,SUCCESS,2025-09-17T13:39:46.721Z
+Jack,dhyey.p@ahduni.edu.in,Thunder Compute,Hiring Manager,SUCCESS,2025-09-17T13:40:19.181Z
+Jinesh,dhyey.p@ahduni.edu.in,IQM,Software Engineer,SUCCESS,2025-09-17T13:41:09.254Z
+Mark,mark@crimson.law,Crimson,Hiring Manager,SUCCESS,2025-09-17T13:46:49.123Z
+Somil,somil@broccoli.com,Broccoli AI, Hiring Manager,SUCCESS,2025-09-17T13:46:55.475Z
+Daksh,daksh@greptile.com,Greptile,Hiring Manager,SUCCESS,2025-09-17T13:47:01.509Z
+Lalit,lalit@delty.ai,Delty,Hiring Manager,SUCCESS,2025-09-17T13:54:24.283Z
+Kenny,kenny@devlaunch.us,DevLaunch,Software Engineer,SUCCESS,2025-09-20T15:28:10.318Z
+Shibasis,spatel@abnormal.ai,Abnormal AI,Software Engineer,SUCCESS,2025-09-20T15:35:11.153Z
+Rashmi,Rashmi.S.Gowda@ibm.com,IBM,Hiring Manager,SUCCESS,2025-09-22T05:45:37.006Z
+Tom,tom@you.com,You.com,Software Engineer,SUCCESS,2025-09-22T06:23:21.737Z
+Prasad,prasad@supatest.ai,Supatest AI,Software Engineer,SUCCESS,2025-09-25T14:00:00.669Z
+Nikhil,prasad@supatest.ai,Palantir Technologies,Software Engineer,SUCCESS,2025-09-25T14:03:13.971Z
+Rafay,rafay@rounds.so,Rounds.so,Hiring Manager,SUCCESS,2025-09-25T14:04:04.051Z
+Gaurav,gaurav@shipmnts.com,Shipmnts,Software Engineer,SUCCESS,2025-09-25T14:05:40.844Z
+Rahul,rahul@jointaro.com,Taro,Software Engineer,SUCCESS,2025-09-25T14:08:55.505Z
+Hiring Manager,careers@crestdata.ai,Crest Data,Hiring Manager,SUCCESS,2025-09-25T18:27:17.563Z
+Kamal,kamal@tatvic.com,Tatvic,Hiring Manager,SUCCESS,2025-09-28T10:44:53.822Z
+Snehashis,s.lenka@fieldai.com,Field AI,Software Engineer,SUCCESS,2025-09-29T15:36:08.623Z
+Shuying,shuying.zhu@fieldai.com,Field AI,Software Engineer,SUCCESS,2025-09-29T15:37:55.861Z
+Ariel,ariel.levy@decart.ai,Decart,Software Engineer,SUCCESS,2025-09-29T15:39:18.231Z
+Daniel,daniel@fal.ai,fal,Software Engineer,SUCCESS,2025-09-29T15:41:06.756Z
+Rodrigo,rodrigo@polymarket.com,Polymarket,Software Engineer,SUCCESS,2025-09-29T15:43:11.221Z
+Kristina,rodrigo@polymarket.com,Invoice Butler,Hiring Manager,SUCCESS,2025-09-29T15:44:46.554Z
+Hiring Manager,careers@crestdata.ai,Crest Data,Hiring Manager,SUCCESS,2025-10-17T12:40:17.493Z
+Hiring Manager,info@tridhyatech.com,Tridhya Tech,Hiring Manager,SUCCESS,2025-10-24T15:40:54.942Z
+Kishan Sakariya,kishan@fxis.ai,Fxis AI,Software Engineer,SUCCESS,2025-10-24T16:04:45.877Z
+Dev Kalyani,dev.kalyani@fxis.ai,Fxis AI,Software Engineer,SUCCESS,2025-10-24T16:05:28.205Z
+Hiring,career@fxis.ai,Fxis AI,Hiring Manager,SUCCESS,2025-10-24T16:06:52.974Z
+Sahil Dabhi,sahil@infocusp.com,Infocusp,Software Engineer														,SUCCESS,2025-10-24T17:12:46.983Z
+Ravi Pathak Dabhi,ravi@tatvic.com,Infocusp,Hiring Manager														,SUCCESS,2025-10-27T12:18:55.824Z
+Suraj Sharma,suraj@videosdk.live,VideoSDK.live,Hiring Manager														,SUCCESS,2025-11-04T06:30:46.167Z
+Shivani,shivani@wuelev8.tech,Where U Elevate,Hiring Manager														,SUCCESS,2025-11-11T07:44:36.659Z
+Ryan Diaz,ryan@flutterflow.io,Flutter Flow,Software Engineer,SUCCESS,2025-11-11T14:17:45.286Z
+Abhinav Lalwani,abhinav@flutterflow.io,Flutter Flow,Software Engineer,SUCCESS,2025-11-11T14:17:52.149Z
+Priti,priti@agno.com,Agno,Software Engineer,SUCCESS,2025-11-11T14:17:58.856Z
+Renato,renato@tryresponse.com,Response,Software Engineer					,SUCCESS,2025-11-11T14:18:07.268Z
+Luke Barratt,luke@attio.com,Attio,Software Engineer,SUCCESS,2025-11-11T14:23:31.400Z
